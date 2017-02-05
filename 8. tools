@@ -1,0 +1,52 @@
+# Herramientas a utilizar (Software y Hardware)
+
+## Software
+
+
+## Hardware
+
+Con el desarrollo de nuevas tecnologías y la tendencia de varias comunidades de abrir el conocimiento, ha sido posible la creación de nuevas
+herramientas de cómputo de muy bajo costo. Un ejemplo de estas herramientas, es lo que hoy conocemos como microcomputadoras o microodenadores,
+éstos dispositivos son básicamente computadoras personales completas integradas en un pequeño circuito electrónico con la capacidad de correr
+un sistema operativo completo totalmente funcional como Ubuntu, Fedora, Debian e incluso Windows. Estas herramientas afortunadamente pueden ser 
+de costos muy accesibles, existe un modelo que cuesta al día de hoy $5 USD.
+
+
+### Micro Computadoras de trabajo
+
+## Pi Zero
+
+La organización raspberry ha liberado recientemente una micro computadora con un costo de apenas $5 usd. Desde el diseño del circuito hasta las aplicaciones y programas que utiliza es de código abierto. Ya no es necesario un gasto excesivo para acercar la tecnología a todo el mundo. 
+
+
+Requerimientos para todas las micro computadoras:
+* Micro SD card
+* Monitor
+* Teclado USD
+* Mouse USB
+* Convertidor de HDMI a VGA
+
+
+Hardware Raspberry Pi Zero:
+* USB Hub para conectar
+* Convertidor de mini HDMI a HDMI
+* WiFI Dongle
+* Protector / Carcaza
+
+Hardware Raspberry Pi3:
+* Cable ethernet
+* Protector / Carcaza
+
+Hardware Pine64:
+* Cable Ethernet
+* Protector / Carcaza
+
+
+
+OS Options:
+* Raspbian
+* Fedora
+* Ubuntu mate
+* Pixel
+* Kali - Offensive Security
+
